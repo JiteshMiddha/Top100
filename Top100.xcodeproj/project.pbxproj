@@ -7,8 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		554976001FC4AFD000EAC6C3 /* SongsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 554975FF1FC4AFD000EAC6C3 /* SongsListViewController.m */; };
+		55B3862C1FC4B23B005EFFEF /* FetchListOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3862B1FC4B23B005EFFEF /* FetchListOperation.m */; };
 		55ECD4F01FC4A06A00131EAE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD4EF1FC4A06A00131EAE /* AppDelegate.m */; };
-		55ECD4F31FC4A06A00131EAE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD4F21FC4A06A00131EAE /* ViewController.m */; };
 		55ECD4F61FC4A06A00131EAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55ECD4F41FC4A06A00131EAE /* Main.storyboard */; };
 		55ECD4F91FC4A06A00131EAE /* Top100.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD4F71FC4A06A00131EAE /* Top100.xcdatamodeld */; };
 		55ECD4FB1FC4A06A00131EAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55ECD4FA1FC4A06A00131EAE /* Assets.xcassets */; };
@@ -36,11 +37,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		554975FE1FC4AFD000EAC6C3 /* SongsListViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SongsListViewController.h; sourceTree = "<group>"; };
+		554975FF1FC4AFD000EAC6C3 /* SongsListViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SongsListViewController.m; sourceTree = "<group>"; };
+		55B3862A1FC4B23B005EFFEF /* FetchListOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FetchListOperation.h; sourceTree = "<group>"; };
+		55B3862B1FC4B23B005EFFEF /* FetchListOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FetchListOperation.m; sourceTree = "<group>"; };
 		55ECD4EB1FC4A06A00131EAE /* Top100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Top100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55ECD4EE1FC4A06A00131EAE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		55ECD4EF1FC4A06A00131EAE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		55ECD4F11FC4A06A00131EAE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		55ECD4F21FC4A06A00131EAE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		55ECD4F51FC4A06A00131EAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		55ECD4F81FC4A06A00131EAE /* Top100.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Top100.xcdatamodel; sourceTree = "<group>"; };
 		55ECD4FA1FC4A06A00131EAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -80,6 +83,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		554976011FC4AFDD00EAC6C3 /* SongsListVC */ = {
+			isa = PBXGroup;
+			children = (
+				554975FE1FC4AFD000EAC6C3 /* SongsListViewController.h */,
+				554975FF1FC4AFD000EAC6C3 /* SongsListViewController.m */,
+			);
+			path = SongsListVC;
+			sourceTree = "<group>";
+		};
+		55B3862D1FC4B243005EFFEF /* FetchList */ = {
+			isa = PBXGroup;
+			children = (
+				55B3862A1FC4B23B005EFFEF /* FetchListOperation.h */,
+				55B3862B1FC4B23B005EFFEF /* FetchListOperation.m */,
+			);
+			path = FetchList;
+			sourceTree = "<group>";
+		};
+		55B3862E1FC4B255005EFFEF /* Operations */ = {
+			isa = PBXGroup;
+			children = (
+				55B3862D1FC4B243005EFFEF /* FetchList */,
+			);
+			path = Operations;
+			sourceTree = "<group>";
+		};
 		55ECD4E21FC4A06A00131EAE = {
 			isa = PBXGroup;
 			children = (
@@ -105,9 +134,9 @@
 			children = (
 				55ECD4EE1FC4A06A00131EAE /* AppDelegate.h */,
 				55ECD4EF1FC4A06A00131EAE /* AppDelegate.m */,
-				55ECD4F11FC4A06A00131EAE /* ViewController.h */,
-				55ECD4F21FC4A06A00131EAE /* ViewController.m */,
 				55ECD4F41FC4A06A00131EAE /* Main.storyboard */,
+				55B3862E1FC4B255005EFFEF /* Operations */,
+				554976011FC4AFDD00EAC6C3 /* SongsListVC */,
 				55ECD4FA1FC4A06A00131EAE /* Assets.xcassets */,
 				55ECD4FC1FC4A06A00131EAE /* LaunchScreen.storyboard */,
 				55ECD4FF1FC4A06A00131EAE /* Info.plist */,
@@ -268,9 +297,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55ECD4F31FC4A06A00131EAE /* ViewController.m in Sources */,
 				55ECD4F01FC4A06A00131EAE /* AppDelegate.m in Sources */,
+				554976001FC4AFD000EAC6C3 /* SongsListViewController.m in Sources */,
 				55ECD5011FC4A06A00131EAE /* main.m in Sources */,
+				55B3862C1FC4B23B005EFFEF /* FetchListOperation.m in Sources */,
 				55ECD4F91FC4A06A00131EAE /* Top100.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
