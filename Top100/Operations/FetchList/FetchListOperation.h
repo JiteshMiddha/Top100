@@ -7,7 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Feed.h"
 
 @interface FetchListOperation : NSOperation
+
+- (id)initWithCompletion: (void(^)(NSArray* list, NSError* error))completionHandler;
 
 @end

@@ -1,0 +1,2559 @@
+{
+"feed": {
+"title": "Top Songs",
+"id": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-songs/all/100/non-explicit.json",
+"author": {
+"name": "iTunes Store",
+"uri": "http://wwww.apple.com/us/itunes/"
+},
+"links": [
+{
+"self": "https://rss.itunes.apple.com/api/v1/us/apple-music/top-songs/all/100/non-explicit.json"
+},
+{
+"alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=34&popId=81&app=music"
+}
+],
+"copyright": "Copyright © 2017 Apple Inc. All Rights Reserved.",
+"country": "us",
+"icon": "http://itunes.apple.com/favicon.ico",
+"updated": "2017-11-20T03:15:23.000-08:00",
+"results": [
+{
+"artistUrl": "https://itunes.apple.com/us/artist/post-malone/966309175?app=music",
+"artistId": "966309175",
+"artistName": "Post Malone",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music118/v4/b1/b3/5a/b1b35a74-fa6e-e909-a2dd-61ff21631059/source/200x200bb.png",
+"collectionName": "rockstar (feat. 21 Savage) - Single",
+"copyright": "℗ 2017 Republic Records, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1281165480",
+"kind": "song",
+"name": "rockstar (feat. 21 Savage)",
+"releaseDate": "2017-09-15",
+"url": "https://itunes.apple.com/us/album/rockstar-feat-21-savage/1281165478?i=1281165480&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-pump/1129587661?app=music",
+"artistId": "1129587661",
+"artistName": "Lil Pump",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music128/v4/17/13/93/171393f6-a2cc-aa0e-c5af-fe63a160a0b3/source/200x200bb.png",
+"collectionName": "Lil Pump",
+"copyright": "℗ 2017 Tha Lights Global/Warner Bros Records Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1292381954",
+"kind": "song",
+"name": "Gucci Gang",
+"releaseDate": "2017-10-06",
+"url": "https://itunes.apple.com/us/album/gucci-gang/1292381888?i=1292381954&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=3973268-670534462&app=music",
+"artistId": "3973268",
+"artistName": "Offset & Metro Boomin",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/10/ba/42/10ba42d9-5af2-8a40-6f82-2b528149138f/source/200x200bb.png",
+"collectionName": "Without Warning",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1303426039",
+"kind": "song",
+"name": "Ric Flair Drip",
+"releaseDate": "2017-10-31",
+"url": "https://itunes.apple.com/us/album/ric-flair-drip/1303426031?i=1303426039&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=569925101-278464538-956078923&app=music",
+"artistId": "569925101",
+"artistName": "Migos, Nicki Minaj & Cardi B",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music118/v4/51/3b/f6/513bf62e-2aaa-8422-2dd2-9fbc9553d10c/source/200x200bb.png",
+"collectionName": "MotorSport - Single",
+"copyright": "Quality Control Music / Motown Records / Capitol Records;℗2017 Quality Control Music, LLC and UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1301744358",
+"kind": "song",
+"name": "MotorSport",
+"releaseDate": "2017-10-27",
+"url": "https://itunes.apple.com/us/album/motorsport/1301743949?i=1301744358&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/g-eazy/275649746?app=music",
+"artistId": "275649746",
+"artistName": "G-Eazy",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music128/v4/f5/8f/0d/f58f0ddc-6afb-a0fa-95e7-49b5c71b2c89/source/200x200bb.png",
+"collectionName": "No Limit (feat. A$AP Rocky & Cardi B) - Single",
+"copyright": "℗ 2017 RCA Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1278389921",
+"kind": "song",
+"name": "No Limit (feat. A$AP Rocky & Cardi B)",
+"releaseDate": "2017-09-08",
+"url": "https://itunes.apple.com/us/album/no-limit-feat-a%24ap-rocky-cardi-b/1278388839?i=1278389921&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/gucci-mane/62374520?app=music",
+"artistId": "62374520",
+"artistName": "Gucci Mane",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music118/v4/35/26/bf/3526bf3b-f20c-7f6b-7ba9-33481c20fb2c/source/200x200bb.png",
+"collectionName": "Mr. Davis",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1271423854",
+"kind": "song",
+"name": "I Get the Bag (feat. Migos)",
+"releaseDate": "2017-08-18",
+"url": "https://itunes.apple.com/us/album/i-get-the-bag-feat-migos/1271423847?i=1271423854&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=894820464-3973268-670534462&app=music",
+"artistId": "894820464",
+"artistName": "21 Savage, Offset & Metro Boomin",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/10/ba/42/10ba42d9-5af2-8a40-6f82-2b528149138f/source/200x200bb.png",
+"collectionName": "Without Warning",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1303426037",
+"kind": "song",
+"name": "Ghostface Killers (feat. Travis Scott)",
+"releaseDate": "2017-10-31",
+"url": "https://itunes.apple.com/us/album/ghostface-killers-feat-travis-scott/1303426031?i=1303426037&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/post-malone/966309175?app=music",
+"artistId": "966309175",
+"artistName": "Post Malone",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music71/v4/93/80/78/938078cc-6bfc-a518-e8b6-8bf731fcfbc6/source/200x200bb.png",
+"collectionName": "Stoney (Deluxe)",
+"copyright": "℗ 2016 Republic Records, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1170700480",
+"kind": "song",
+"name": "I Fall Apart",
+"releaseDate": "2016-12-09",
+"url": "https://itunes.apple.com/us/album/i-fall-apart/1170699981?i=1170700480&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/camila-cabello/935727853?app=music",
+"artistId": "935727853",
+"artistName": "Camila Cabello",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music128/v4/46/19/e3/4619e3b9-37de-dfb3-433d-29a1bb43bf3b/source/200x200bb.png",
+"collectionName": "Havana (feat. Young Thug) - Single",
+"copyright": "℗ 2017 Simco Ltd. under exclusive license to Epic Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1266716155",
+"kind": "song",
+"name": "Havana (feat. Young Thug)",
+"releaseDate": "2017-08-05",
+"url": "https://itunes.apple.com/us/album/havana-feat-young-thug/1266716082?i=1266716155&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/cardi-b/956078923?app=music",
+"artistId": "956078923",
+"artistName": "Cardi B",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music127/v4/97/6f/80/976f80d6-2280-4fb5-da37-353cbd1e874c/source/200x200bb.png",
+"collectionName": "Bodak Yellow - Single",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1248378144",
+"kind": "song",
+"name": "Bodak Yellow",
+"releaseDate": "2017-06-16",
+"url": "https://itunes.apple.com/us/album/bodak-yellow/1248377996?i=1248378144&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/nav/1200089113?app=music",
+"artistId": "1200089113",
+"artistName": "NAV",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music128/v4/ac/8b/f1/ac8bf168-71df-1683-dcc4-641f35b89069/source/200x200bb.png",
+"collectionName": "Wanted You (feat. Lil Uzi Vert) - Single",
+"copyright": "℗ 2017 XO Records, LLC and Republic Records, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1309761686",
+"kind": "song",
+"name": "Wanted You (feat. Lil Uzi Vert)",
+"releaseDate": "2017-11-03",
+"url": "https://itunes.apple.com/us/album/wanted-you-feat-lil-uzi-vert/1309761348?i=1309761686&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/sam-smith/156488786?app=music",
+"artistId": "156488786",
+"artistName": "Sam Smith",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/0d/03/96/0d0396c2-9b53-12ad-8e70-b1c4ffad214c/source/200x200bb.png",
+"collectionName": "The Thrill of It All (Special Edition)",
+"copyright": "A Capitol Records UK release;℗2017 Universal Music Operations Limited",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1291541469",
+"kind": "song",
+"name": "Too Good at Goodbyes",
+"releaseDate": "2017-09-08",
+"url": "https://itunes.apple.com/us/album/too-good-at-goodbyes/1291541468?i=1291541469&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/a%24ap-ferg/582346993?app=music",
+"artistId": "582346993",
+"artistName": "A$AP Ferg",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music128/v4/14/24/fe/1424fec5-3b0b-4bfb-ed46-25ee9ec02689/source/200x200bb.png",
+"collectionName": "Still Striving",
+"copyright": "℗ 2017 RCA Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1266713364",
+"kind": "song",
+"name": "Plain Jane",
+"releaseDate": "2017-08-04",
+"url": "https://itunes.apple.com/us/album/plain-jane/1266713355?i=1266713364&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/21-savage/894820464?app=music",
+"artistId": "894820464",
+"artistName": "21 Savage",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music111/v4/f5/b4/3b/f5b43b33-8dbb-3f11-540b-6fd75538e495/source/200x200bb.png",
+"collectionName": "Issa Album",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1254351757",
+"kind": "song",
+"name": "Bank Account",
+"releaseDate": "2017-07-07",
+"url": "https://itunes.apple.com/us/album/bank-account/1254351754?i=1254351757&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=894820464-3973268-670534462&app=music",
+"artistId": "894820464",
+"artistName": "21 Savage, Offset & Metro Boomin",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/10/ba/42/10ba42d9-5af2-8a40-6f82-2b528149138f/source/200x200bb.png",
+"collectionName": "Without Warning",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1303426038",
+"kind": "song",
+"name": "Rap Saved Me (feat. Quavo)",
+"releaseDate": "2017-10-31",
+"url": "https://itunes.apple.com/us/album/rap-saved-me-feat-quavo/1303426031?i=1303426038&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/kodak-black/953921140?app=music",
+"artistId": "953921140",
+"artistName": "Kodak Black",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/bd/e2/40/bde2404a-115d-2af4-2249-acaff533d388/source/200x200bb.png",
+"collectionName": "Project Baby 2",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "1073",
+"name": "Hip-Hop",
+"url": "https://itunes.apple.com/us/genre/id1073"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+}
+],
+"id": "1271395149",
+"kind": "song",
+"name": "Roll in Peace (feat. XXXTENTACION)",
+"releaseDate": "2017-08-18",
+"url": "https://itunes.apple.com/us/album/roll-in-peace-feat-xxxtentacion/1271395139?i=1271395149&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/khalid/82842423?app=music",
+"artistId": "82842423",
+"artistName": "Middha",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music122/v4/b9/ab/a7/b9aba7fd-bccd-9e84-8cc6-41f616ddb429/source/200x200bb.png",
+"collectionName": "American Teen",
+"copyright": "℗ 2017 RCA Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1200868874",
+"kind": "song",
+"name": "Young Dumb & Broke",
+"releaseDate": "2017-03-03",
+"url": "https://itunes.apple.com/us/album/young-dumb-broke/1200868601?i=1200868874&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/ed-sheeran/183313439?app=music",
+"artistId": "183313439",
+"artistName": "Ed Sheeran",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music122/v4/ef/ca/a4/efcaa44a-517a-98e3-2353-5bff15471ed5/source/200x200bb.png",
+"collectionName": "÷ (Deluxe)",
+"copyright": "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "10",
+"name": "Singer/Songwriter",
+"url": "https://itunes.apple.com/us/genre/id10"
+}
+],
+"id": "1193701400",
+"kind": "song",
+"name": "Perfect",
+"releaseDate": "2017-03-03",
+"url": "https://itunes.apple.com/us/album/perfect/1193701079?i=1193701400&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/logic/30865945?app=music",
+"artistId": "30865945",
+"artistName": "Logic",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music122/v4/f5/67/de/f567de5a-5811-45e0-4c02-52ff0254281c/source/200x200bb.png",
+"collectionName": "Everybody",
+"copyright": "℗ 2017 Def Jam Recordings, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1221017219",
+"kind": "song",
+"name": "1-800-273-8255 (feat. Alessia Cara & Khalid)",
+"releaseDate": "2017-04-28",
+"url": "https://itunes.apple.com/us/album/1-800-273-8255-feat-alessia-cara-khalid/1221017205?i=1221017219&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/kendrick-lamar/368183298?app=music",
+"artistId": "368183298",
+"artistName": "Kendrick Lamar",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music111/v4/56/46/3f/56463f62-0d8d-3595-368b-38a995f10e36/source/200x200bb.png",
+"collectionName": "DAMN.",
+"copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1223592501",
+"kind": "song",
+"name": "LOVE. (FEAT. ZACARI.)",
+"releaseDate": "2017-04-14",
+"url": "https://itunes.apple.com/us/album/love-feat-zacari/1223592280?i=1223592501&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/sza/605800394?app=music",
+"artistId": "605800394",
+"artistName": "SZA",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music117/v4/d7/c6/8e/d7c68eb5-3e7a-d116-8b23-2720d663632e/source/200x200bb.png",
+"collectionName": "Ctrl",
+"copyright": "℗ 2017 Top Dawg Entertainment, under exclusive license to RCA Records",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1239976607",
+"kind": "song",
+"name": "The Weekend",
+"releaseDate": "2017-06-09",
+"url": "https://itunes.apple.com/us/album/the-weekend/1239976329?i=1239976607&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314239988",
+"kind": "song",
+"name": "Change Partners",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/change-partners/1314239981?i=1314239988&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/sza/605800394?app=music",
+"artistId": "605800394",
+"artistName": "SZA",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music117/v4/d7/c6/8e/d7c68eb5-3e7a-d116-8b23-2720d663632e/source/200x200bb.png",
+"collectionName": "Ctrl",
+"copyright": "℗ 2017 Top Dawg Entertainment, under exclusive license to RCA Records",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1239976603",
+"kind": "song",
+"name": "Love Galore (feat. Travis Scott)",
+"releaseDate": "2017-04-28",
+"url": "https://itunes.apple.com/us/album/love-galore-feat-travis-scott/1239976329?i=1239976603&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/post-malone/966309175?app=music",
+"artistId": "966309175",
+"artistName": "Post Malone",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music71/v4/93/80/78/938078cc-6bfc-a518-e8b6-8bf731fcfbc6/source/200x200bb.png",
+"collectionName": "Stoney (Deluxe)",
+"copyright": "℗ 2016 Republic Records, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1170700486",
+"kind": "song",
+"name": "Congratulations (feat. Quavo)",
+"releaseDate": "2016-11-04",
+"url": "https://itunes.apple.com/us/album/congratulations-feat-quavo/1170699981?i=1170700486&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240008",
+"kind": "song",
+"name": "Pleading the Fifth (feat. Quavo)",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/pleading-the-fifth-feat-quavo/1314239981?i=1314240008&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707475",
+"kind": "song",
+"name": "Scrub",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/scrub/1300707470?i=1300707475&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=894820464-670534462&app=music",
+"artistId": "894820464",
+"artistName": "21 Savage & Metro Boomin",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/10/ba/42/10ba42d9-5af2-8a40-6f82-2b528149138f/source/200x200bb.png",
+"collectionName": "Without Warning",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1303426044",
+"kind": "song",
+"name": "My Choppa Hate N****s",
+"releaseDate": "2017-10-31",
+"url": "https://itunes.apple.com/us/album/my-choppa-hate-n-s/1303426031?i=1303426044&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-uzi-vert/940710524?app=music",
+"artistId": "940710524",
+"artistName": "Lil Uzi Vert",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/63/71/32/63713234-2038-00cd-c7dd-6c93256a481c/source/200x200bb.png",
+"collectionName": "Luv Is Rage 2",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1274152200",
+"kind": "song",
+"name": "The Way Life Goes (feat. Oh Wonder)",
+"releaseDate": "2017-08-25",
+"url": "https://itunes.apple.com/us/album/the-way-life-goes-feat-oh-wonder/1274150514?i=1274152200&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/goldlink/894731178?app=music",
+"artistId": "894731178",
+"artistName": "GoldLink",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music111/v4/3e/32/a0/3e32a06d-f3d4-9729-1ac1-923de6b99261/source/200x200bb.png",
+"collectionName": "At What Cost",
+"copyright": "℗ 2017 RCA Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1215426433",
+"kind": "song",
+"name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
+"releaseDate": "2016-12-16",
+"url": "https://itunes.apple.com/us/album/crew-feat-brent-faiyaz-shy-glizzy/1215426121?i=1215426433&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707476",
+"kind": "song",
+"name": "Lovin' (feat. A Boogie Wit Da Hoodie)",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/lovin-feat-a-boogie-wit-da-hoodie/1300707470?i=1300707476&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/travis-scott/549236696?app=music",
+"artistId": "549236696",
+"artistName": "Travis Scott",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music117/v4/60/5b/8a/605b8a12-6709-a5fe-a1e2-a32c4460cce0/source/200x200bb.png",
+"collectionName": "Butterfly Effect - Single",
+"copyright": "℗ 2017 Epic Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1238461121",
+"kind": "song",
+"name": "Butterfly Effect",
+"releaseDate": "2017-05-15",
+"url": "https://itunes.apple.com/us/album/butterfly-effect/1238460728?i=1238461121&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=128050210-81886939&app=music",
+"artistId": "128050210",
+"artistName": "Future & Young Thug",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music118/v4/72/9d/28/729d28cd-6092-7124-955d-ad25d1015443/source/200x200bb.png",
+"collectionName": "SUPER SLIMEY",
+"copyright": "℗ 2017 Epic Records, a division of Sony Music Entertainment. With 300 Entertainment/Atlantic Recordings Corporation.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1298483142",
+"kind": "song",
+"name": "Patek Water (feat. Offset)",
+"releaseDate": "2017-10-20",
+"url": "https://itunes.apple.com/us/album/patek-water-feat-offset/1298483081?i=1298483142&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-uzi-vert/940710524?app=music",
+"artistId": "940710524",
+"artistName": "Lil Uzi Vert",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/63/71/32/63713234-2038-00cd-c7dd-6c93256a481c/source/200x200bb.png",
+"collectionName": "Luv Is Rage 2",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1274153124",
+"kind": "song",
+"name": "XO TOUR Llif3",
+"releaseDate": "2017-02-26",
+"url": "https://itunes.apple.com/us/album/xo-tour-llif3/1274150514?i=1274153124&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/french-montana/475816358?app=music",
+"artistId": "475816358",
+"artistName": "French Montana",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music127/v4/6c/8a/c6/6c8ac6ef-97ce-8411-a8c5-57b9a5f22eed/source/200x200bb.png",
+"collectionName": "Jungle Rules",
+"copyright": "℗ 2017 Bad Boy Entertainment / Epic Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1254555499",
+"kind": "song",
+"name": "Unforgettable (feat. Swae Lee)",
+"releaseDate": "2017-04-07",
+"url": "https://itunes.apple.com/us/album/unforgettable-feat-swae-lee/1254555045?i=1254555499&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/xxxtentacion/1082533559?app=music",
+"artistId": "1082533559",
+"artistName": "XXXTENTACION",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music128/v4/09/c6/4d/09c64d53-e9e9-63b7-6241-1f4d270a3a54/source/200x200bb.png",
+"collectionName": "17",
+"copyright": "℗ 2017 Bad Vibes Forever / EMPIRE",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1274653784",
+"kind": "song",
+"name": "F**k Love (feat. Trippie Redd)",
+"releaseDate": "2017-08-25",
+"url": "https://itunes.apple.com/us/album/f-k-love-feat-trippie-redd/1274653476?i=1274653784&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/halsey/324916925?app=music",
+"artistId": "324916925",
+"artistName": "Halsey",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music111/v4/db/f9/36/dbf9369f-9b69-98d0-2b52-50541d3fff31/source/200x200bb.png",
+"collectionName": "hopeless fountain kingdom (Deluxe)",
+"copyright": "℗ 2017 Astralwerks",
+"genres": [
+{
+"genreId": "20",
+"name": "Alternative",
+"url": "https://itunes.apple.com/us/genre/id20"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1221749998",
+"kind": "song",
+"name": "Bad at Love",
+"releaseDate": "2017-06-02",
+"url": "https://itunes.apple.com/us/album/bad-at-love/1221749987?i=1221749998&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707477",
+"kind": "song",
+"name": "Issues (feat. Russ)",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/issues-feat-russ/1300707470?i=1300707477&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314239993",
+"kind": "song",
+"name": "Preliminary Hearing",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/preliminary-hearing/1314239981?i=1314239993&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314239996",
+"kind": "song",
+"name": "Mandatory Drug Test (feat. Young Thug)",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/mandatory-drug-test-feat-young-thug/1314239981?i=1314239996&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/imagine-dragons/358714030?app=music",
+"artistId": "358714030",
+"artistName": "Imagine Dragons",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music117/v4/2c/6b/cc/2c6bcc08-8a7a-dd89-d344-4e649f2a1bf8/source/200x200bb.png",
+"collectionName": "Evolve",
+"copyright": "℗ 2017 KIDinaKORNER/Interscope Records",
+"genres": [
+{
+"genreId": "20",
+"name": "Alternative",
+"url": "https://itunes.apple.com/us/genre/id20"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1233502633",
+"kind": "song",
+"name": "Thunder",
+"releaseDate": "2017-04-27",
+"url": "https://itunes.apple.com/us/album/thunder/1233502263?i=1233502633&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=280215834-980795202&app=music",
+"artistId": "280215834",
+"artistName": "Selena Gomez & Marshmello",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/e0/b1/2c/e0b12ca1-27fb-dbdb-136c-aaac32e179a3/source/200x200bb.png",
+"collectionName": "Wolves - Single",
+"copyright": "℗ 2017 Interscope Records",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1299309938",
+"kind": "song",
+"name": "Wolves",
+"releaseDate": "2017-10-25",
+"url": "https://itunes.apple.com/us/album/wolves/1299309813?i=1299309938&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/yo-gotti/62763238?app=music",
+"artistId": "62763238",
+"artistName": "Yo Gotti",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music127/v4/4a/49/79/4a4979e7-84fe-082f-8341-ca1213626e4e/source/200x200bb.png",
+"collectionName": "Rake It Up (feat. Nicki Minaj) - Single",
+"copyright": "℗ 2017 Epic Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1249546109",
+"kind": "song",
+"name": "Rake It Up (feat. Nicki Minaj)",
+"releaseDate": "2017-06-02",
+"url": "https://itunes.apple.com/us/album/rake-it-up-feat-nicki-minaj/1249546091?i=1249546109&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/famous-dex/996255614?app=music",
+"artistId": "996255614",
+"artistName": "Famous Dex",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music128/v4/e3/e7/08/e3e7087b-f425-57a3-3179-b2e39f94d41e/source/200x200bb.png",
+"collectionName": "Pick It Up (feat. A$AP Rocky) - Single",
+"copyright": "℗ 2017 Richforever Music under exclusive license to 300 Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1296951744",
+"kind": "song",
+"name": "Pick It Up (feat. A$AP Rocky)",
+"releaseDate": "2017-10-20",
+"url": "https://itunes.apple.com/us/album/pick-it-up-feat-a%24ap-rocky/1296951374?i=1296951744&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/demi-lovato/280215821?app=music",
+"artistId": "280215821",
+"artistName": "Demi Lovato",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music118/v4/5a/87/c1/5a87c1f3-7bd6-fbca-fca5-3d0cb214a9bd/source/200x200bb.png",
+"collectionName": "Tell Me You Love Me (Deluxe)",
+"copyright": "℗ 2017 Island Records, a division of UMG Recordings, Inc./Hollywood Records/Safehouse Records LLC",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1273382678",
+"kind": "song",
+"name": "Sorry Not Sorry",
+"releaseDate": "2017-07-11",
+"url": "https://itunes.apple.com/us/album/sorry-not-sorry/1273382676?i=1273382678&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314239999",
+"kind": "song",
+"name": "Collateral Damage",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/collateral-damage/1314239981?i=1314239999&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/miguel/29254083?app=music",
+"artistId": "29254083",
+"artistName": "Miguel",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music128/v4/1f/67/6a/1f676ab3-9c63-5dda-0095-06a042727587/source/200x200bb.png",
+"collectionName": "Sky Walker (feat. Travis Scott) - Single",
+"copyright": "℗ 2017 ByStorm Entertainment and RCA Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1273787066",
+"kind": "song",
+"name": "Sky Walker (feat. Travis Scott)",
+"releaseDate": "2017-08-25",
+"url": "https://itunes.apple.com/us/album/sky-walker-feat-travis-scott/1273787064?i=1273787066&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/a-boogie-wit-da-hoodie/1068300376?app=music",
+"artistId": "1068300376",
+"artistName": "A Boogie wit da Hoodie",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music118/v4/89/67/a5/8967a513-dab6-d1e6-106f-cd86cac63bb6/source/200x200bb.png",
+"collectionName": "The Bigger Artist",
+"copyright": "℗ 2017",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1278404870",
+"kind": "song",
+"name": "Drowning (feat. Kodak Black)",
+"releaseDate": "2017-03-10",
+"url": "https://itunes.apple.com/us/album/drowning-feat-kodak-black/1278404610?i=1278404870&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/kendrick-lamar/368183298?app=music",
+"artistId": "368183298",
+"artistName": "Kendrick Lamar",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music111/v4/56/46/3f/56463f62-0d8d-3595-368b-38a995f10e36/source/200x200bb.png",
+"collectionName": "DAMN.",
+"copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1223592498",
+"kind": "song",
+"name": "HUMBLE.",
+"releaseDate": "2017-03-31",
+"url": "https://itunes.apple.com/us/album/humble/1223592280?i=1223592498&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/6ix9ine/1258256228?app=music",
+"artistId": "1258256228",
+"artistName": "6ix9ine",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/6d/07/49/6d07495a-3b43-b7dc-1fd2-31c92071851b/source/200x200bb.png",
+"collectionName": "Gummo - Single",
+"copyright": "℗ 2017 Scumgang Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1309754542",
+"kind": "song",
+"name": "Gummo",
+"releaseDate": "2017-11-10",
+"url": "https://itunes.apple.com/us/album/gummo/1309754282?i=1309754542&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/marshmello/980795202?app=music",
+"artistId": "980795202",
+"artistName": "Marshmello",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/1c/fd/8f/1cfd8f86-463c-584b-36e8-cfe6f3192b8e/source/200x200bb.png",
+"collectionName": "Silence (feat. Khalid) - Single",
+"copyright": "℗ 2017 Joytime Collective, under exclusive license to RCA Records",
+"genres": [
+{
+"genreId": "17",
+"name": "Dance",
+"url": "https://itunes.apple.com/us/genre/id17"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1268152499",
+"kind": "song",
+"name": "Silence (feat. Khalid)",
+"releaseDate": "2017-08-11",
+"url": "https://itunes.apple.com/us/album/silence-feat-khalid/1268152497?i=1268152499&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=3973268-670534462&app=music",
+"artistId": "3973268",
+"artistName": "Offset & Metro Boomin",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/10/ba/42/10ba42d9-5af2-8a40-6f82-2b528149138f/source/200x200bb.png",
+"collectionName": "Without Warning",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1303426045",
+"kind": "song",
+"name": "Nightmare",
+"releaseDate": "2017-10-31",
+"url": "https://itunes.apple.com/us/album/nightmare/1303426031?i=1303426045&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/chris-brown/95705522?app=music",
+"artistId": "95705522",
+"artistName": "Chris Brown",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/0c/3f/a8/0c3fa85c-7f06-0ede-4659-ffa785dc6ae7/source/200x200bb.png",
+"collectionName": "Heartbreak on a Full Moon",
+"copyright": "℗ 2017 RCA Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1293917433",
+"kind": "song",
+"name": "High End (feat. Future & Young Thug)",
+"releaseDate": "2017-10-13",
+"url": "https://itunes.apple.com/us/album/high-end-feat-future-young-thug/1293916276?i=1293917433&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=894820464-3973268-670534462&app=music",
+"artistId": "894820464",
+"artistName": "21 Savage, Offset & Metro Boomin",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/10/ba/42/10ba42d9-5af2-8a40-6f82-2b528149138f/source/200x200bb.png",
+"collectionName": "Without Warning",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1303426046",
+"kind": "song",
+"name": "Mad Stalkers",
+"releaseDate": "2017-10-31",
+"url": "https://itunes.apple.com/us/album/mad-stalkers/1303426031?i=1303426046&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/a-boogie-wit-da-hoodie/1068300376?app=music",
+"artistId": "1068300376",
+"artistName": "A Boogie wit da Hoodie",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music118/v4/89/67/a5/8967a513-dab6-d1e6-106f-cd86cac63bb6/source/200x200bb.png",
+"collectionName": "The Bigger Artist",
+"copyright": "℗ 2017",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1278404871",
+"kind": "song",
+"name": "Say A'",
+"releaseDate": "2017-09-29",
+"url": "https://itunes.apple.com/us/album/say-a/1278404610?i=1278404871&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-uzi-vert/940710524?app=music",
+"artistId": "940710524",
+"artistName": "Lil Uzi Vert",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/99/37/29/9937293c-03ad-62e5-5c5c-8642439db38a/source/200x200bb.png",
+"collectionName": "Luv Is Rage 2 (Deluxe)",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1313366296",
+"kind": "song",
+"name": "20 Min",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/20-min/1313364174?i=1313366296&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/khalid/82842423?app=music",
+"artistId": "82842423",
+"artistName": "Khalid",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music122/v4/b9/ab/a7/b9aba7fd-bccd-9e84-8cc6-41f616ddb429/source/200x200bb.png",
+"collectionName": "American Teen",
+"copyright": "℗ 2017 RCA Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1200868875",
+"kind": "song",
+"name": "Location",
+"releaseDate": "2016-05-19",
+"url": "https://itunes.apple.com/us/album/location/1200868601?i=1200868875&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/ybn-nahmir/1287634670?app=music",
+"artistId": "1287634670",
+"artistName": "YBN Nahmir",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/51/2a/db/512adbe6-3818-298b-6e92-3e634d4e71b8/source/200x200bb.png",
+"collectionName": "Rubbin Off the Paint - Single",
+"copyright": "℗ 2017 Human Re Sources / M.M.M",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1298894301",
+"kind": "song",
+"name": "Rubbin Off the Paint",
+"releaseDate": "2017-10-20",
+"url": "https://itunes.apple.com/us/album/rubbin-off-the-paint/1298894293?i=1298894301&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/xxxtentacion/1082533559?app=music",
+"artistId": "1082533559",
+"artistName": "XXXTENTACION",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music128/v4/09/c6/4d/09c64d53-e9e9-63b7-6241-1f4d270a3a54/source/200x200bb.png",
+"collectionName": "17",
+"copyright": "℗ 2017 Bad Vibes Forever / EMPIRE",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1274653478",
+"kind": "song",
+"name": "Jocelyn Flores",
+"releaseDate": "2017-08-25",
+"url": "https://itunes.apple.com/us/album/jocelyn-flores/1274653476?i=1274653478&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=626510-63346553&app=music",
+"artistId": "626510",
+"artistName": "N.E.R.D & Rihanna",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/6a/78/d1/6a78d198-a246-eb3b-92be-f14039a25e1c/source/200x200bb.png",
+"collectionName": "Lemon - Single",
+"copyright": "℗ 2017 N.E.R.D Music, LLC under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300804206",
+"kind": "song",
+"name": "Lemon",
+"releaseDate": "2017-11-01",
+"url": "https://itunes.apple.com/us/album/lemon/1300804183?i=1300804206&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/kodak-black/953921140?app=music",
+"artistId": "953921140",
+"artistName": "Kodak Black",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/bd/e2/40/bde2404a-115d-2af4-2249-acaff533d388/source/200x200bb.png",
+"collectionName": "Project Baby 2",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "1073",
+"name": "Hip-Hop",
+"url": "https://itunes.apple.com/us/genre/id1073"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+}
+],
+"id": "1271395370",
+"kind": "song",
+"name": "Transportin'",
+"releaseDate": "2017-08-18",
+"url": "https://itunes.apple.com/us/album/transportin/1271395139?i=1271395370&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707481",
+"kind": "song",
+"name": "Lowkey (feat. Roy Woods & 24hrs)",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/lowkey-feat-roy-woods-24hrs/1300707470?i=1300707481&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707472",
+"kind": "song",
+"name": "Friends",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/friends/1300707470?i=1300707472&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/bebe-rexha/466059563?app=music",
+"artistId": "466059563",
+"artistName": "Bebe Rexha",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music128/v4/65/c7/d0/65c7d06b-58ab-8455-6c30-7fe91b6ef827/source/200x200bb.png",
+"collectionName": "All Your Fault: Pt. 2 - EP",
+"copyright": "℗ 2017 Warner Bros. Records Inc.",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1251713725",
+"kind": "song",
+"name": "Meant to Be (feat. Florida Georgia Line)",
+"releaseDate": "2017-08-18",
+"url": "https://itunes.apple.com/us/album/meant-to-be-feat-florida-georgia-line/1251713683?i=1251713725&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240072",
+"kind": "song",
+"name": "Acquittal",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/acquittal/1314239981?i=1314240072&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240071",
+"kind": "song",
+"name": "Tampering With Evidence",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/tampering-with-evidence/1314239981?i=1314240071&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/tay-k/1256531673?app=music",
+"artistId": "1256531673",
+"artistName": "Tay-K",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music118/v4/2a/70/f0/2a70f0d1-530c-61f8-fe54-84ef0a0e0d80/source/200x200bb.png",
+"collectionName": "#SantanaWorld",
+"copyright": "℗ 2017 Tay-K",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "1076",
+"name": "Rap",
+"url": "https://itunes.apple.com/us/genre/id1076"
+}
+],
+"id": "1258358289",
+"kind": "song",
+"name": "The Race",
+"releaseDate": "2017-07-17",
+"url": "https://itunes.apple.com/us/album/the-race/1258358140?i=1258358289&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-uzi-vert/940710524?app=music",
+"artistId": "940710524",
+"artistName": "Lil Uzi Vert",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/63/71/32/63713234-2038-00cd-c7dd-6c93256a481c/source/200x200bb.png",
+"collectionName": "Luv Is Rage 2",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1274152107",
+"kind": "song",
+"name": "Sauce It Up",
+"releaseDate": "2017-08-25",
+"url": "https://itunes.apple.com/us/album/sauce-it-up/1274150514?i=1274152107&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240003",
+"kind": "song",
+"name": "Plea Deal",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/plea-deal/1314239981?i=1314240003&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/chris-brown/95705522?app=music",
+"artistId": "95705522",
+"artistName": "Chris Brown",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music128/v4/8c/a6/2a/8ca62a7f-0777-dc75-1cc7-9ae21f109692/source/200x200bb.png",
+"collectionName": "Pills & Automobiles (feat. Yo Gotti, A Boogie wit da Hoodie & Kodak Black) - Single",
+"copyright": "℗ 2017 RCA Records, a division on Sony Music Entertainment",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1268151584",
+"kind": "song",
+"name": "Pills & Automobiles (feat. Yo Gotti, A Boogie wit da Hoodie & Kodak Black)",
+"releaseDate": "2017-08-04",
+"url": "https://itunes.apple.com/us/album/pills-automobiles-feat-yo-gotti-boogie-wit-da-hoodie/1268151479?i=1268151584&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240007",
+"kind": "song",
+"name": "Judgment",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/judgment/1314239981?i=1314240007&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/dua-lipa/1031397873?app=music",
+"artistId": "1031397873",
+"artistName": "Dua Lipa",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music111/v4/6d/1e/c6/6d1ec6e3-775b-97d0-f329-6956a550310f/source/200x200bb.png",
+"collectionName": "Dua Lipa (Deluxe)",
+"copyright": "℗ 2017 Dua Lipa Limited under exclusive license to Warner Music UK Limited. Tracks 3, 6, 7, 8, 9, 13, 14 (P) 2016 Warner Music UK Limited. Tracks 4, 15, 17 (P) 2015 Warner Music UK Limited.",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1228739609",
+"kind": "song",
+"name": "New Rules",
+"releaseDate": "2017-06-02",
+"url": "https://itunes.apple.com/us/album/new-rules/1228739599?i=1228739609&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240002",
+"kind": "song",
+"name": "Character Witness",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/character-witness/1314239981?i=1314240002&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/young-thug/81886939?app=music",
+"artistId": "81886939",
+"artistName": "Young Thug",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music127/v4/b1/05/3b/b1053bc5-fc41-b083-bfc3-3f9e9e347568/source/200x200bb.png",
+"collectionName": "BEAUTIFUL THUGGER GIRLS",
+"copyright": "℗ 2017 300 Entertainment / Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1247608150",
+"kind": "song",
+"name": "Relationship (feat. Future)",
+"releaseDate": "2017-06-16",
+"url": "https://itunes.apple.com/us/album/relationship-feat-future/1247607650?i=1247608150&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/post-malone/966309175?app=music",
+"artistId": "966309175",
+"artistName": "Post Malone",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music71/v4/93/80/78/938078cc-6bfc-a518-e8b6-8bf731fcfbc6/source/200x200bb.png",
+"collectionName": "Stoney (Deluxe)",
+"copyright": "℗ 2016 Republic Records, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1170700482",
+"kind": "song",
+"name": "Go Flex",
+"releaseDate": "2016-04-21",
+"url": "https://itunes.apple.com/us/album/go-flex/1170699981?i=1170700482&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-xan/1163274805?app=music",
+"artistId": "1163274805",
+"artistName": "Lil Xan",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/0a/82/4d/0a824d92-7463-0392-1772-b32c63f04500/source/200x200bb.png",
+"collectionName": "Betrayed - Single",
+"copyright": "℗ 2017 Columbia Records, a Division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1298609050",
+"kind": "song",
+"name": "Betrayed",
+"releaseDate": "2017-07-20",
+"url": "https://itunes.apple.com/us/album/betrayed/1298609041?i=1298609050&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/dj-khaled/157749142?app=music",
+"artistId": "157749142",
+"artistName": "DJ Khaled",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music117/v4/5b/bd/4b/5bbd4b35-f234-6366-3fa1-2f45431f861b/source/200x200bb.png",
+"collectionName": "Grateful",
+"copyright": "℗ 2017 Epic Records, a division of Sony Music Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1244230126",
+"kind": "song",
+"name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+"releaseDate": "2017-06-16",
+"url": "https://itunes.apple.com/us/album/wild-thoughts-feat-rihanna-bryson-tiller/1244230120?i=1244230126&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-uzi-vert/940710524?app=music",
+"artistId": "940710524",
+"artistName": "Lil Uzi Vert",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/99/37/29/9937293c-03ad-62e5-5c5c-8642439db38a/source/200x200bb.png",
+"collectionName": "Luv Is Rage 2 (Deluxe)",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1313366161",
+"kind": "song",
+"name": "Loaded",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/loaded/1313364174?i=1313366161&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707474",
+"kind": "song",
+"name": "Face",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/face/1300707470?i=1300707474&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240004",
+"kind": "song",
+"name": "Contempt of Court",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/contempt-of-court/1314239981?i=1314240004&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=894820464-3973268-670534462&app=music",
+"artistId": "894820464",
+"artistName": "21 Savage, Offset & Metro Boomin",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music128/v4/10/ba/42/10ba42d9-5af2-8a40-6f82-2b528149138f/source/200x200bb.png",
+"collectionName": "Without Warning",
+"copyright": "℗ 2017 Slaughter Gang, LLC under exclusive license to Epic Records, a division of Sony Music Entertainment. With Quality Control Music/Motown Records/Capitol Records and Boominati Worldwide/Republic Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1303426047",
+"kind": "song",
+"name": "Disrespectful",
+"releaseDate": "2017-10-31",
+"url": "https://itunes.apple.com/us/album/disrespectful/1303426031?i=1303426047&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/2-chainz/435300447?app=music",
+"artistId": "435300447",
+"artistName": "2 Chainz",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music127/v4/f8/0e/86/f80e86f3-fdbb-1875-fb29-cd01b127e7cd/source/200x200bb.png",
+"collectionName": "Pretty Girls Like Trap Music",
+"copyright": "℗ 2017 Def Jam Recordings, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1240982825",
+"kind": "song",
+"name": "It's a Vibe (feat. Ty Dolla $ign, Trey Songz & Jhené Aiko)",
+"releaseDate": "2017-03-09",
+"url": "https://itunes.apple.com/us/album/its-a-vibe-feat-ty-dolla-%24ign-trey-songz-jhen%C3%A9-aiko/1240982582?i=1240982825&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707473",
+"kind": "song",
+"name": "London",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/london/1300707470?i=1300707473&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=991187319-1168822104&app=music",
+"artistId": "991187319",
+"artistName": "Moneybagg Yo & YoungBoy Never Broke Again",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music118/v4/61/69/50/61695064-c95d-c377-ca36-2a42ee83350e/source/200x200bb.png",
+"collectionName": "Fed Baby’s",
+"copyright": "A N-Less Entertainment, LLC / Never Broke Again, LLC, ;℗2017 N-Less Entertainment, LLC ",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1314240073",
+"kind": "song",
+"name": "Appeal",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/appeal/1314239981?i=1314240073&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/portugal-the-man/167649475?app=music",
+"artistId": "167649475",
+"artistName": "Portugal. The Man",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music82/v4/51/5d/70/515d7032-12bb-3f2a-97b9-567e5797ad1e/source/200x200bb.png",
+"collectionName": "Woodstock",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "20",
+"name": "Alternative",
+"url": "https://itunes.apple.com/us/genre/id20"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1229315050",
+"kind": "song",
+"name": "Feel It Still",
+"releaseDate": "2017-03-03",
+"url": "https://itunes.apple.com/us/album/feel-it-still/1229315038?i=1229315050&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707482",
+"kind": "song",
+"name": "iRun (feat. Lil Yachty)",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/irun-feat-lil-yachty/1300707470?i=1300707482&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/taylor-swift/159260351?app=music",
+"artistId": "159260351",
+"artistName": "Taylor Swift",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music118/v4/d3/00/54/d3005445-cec3-c943-0019-eb9eccf94306/source/200x200bb.png",
+"collectionName": "Call It What You Want - Single",
+"copyright": "℗ 2017 Big Machine Label Group, LLC",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1306033523",
+"kind": "song",
+"name": "Call It What You Want",
+"releaseDate": "2017-11-03",
+"url": "https://itunes.apple.com/us/album/call-it-what-you-want/1306033445?i=1306033523&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=102834-25514958&app=music",
+"artistId": "102834",
+"artistName": "Luis Fonsi & Daddy Yankee",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music122/v4/a3/f0/47/a3f047a3-0632-27b4-a58f-30db9f42eb36/source/200x200bb.png",
+"collectionName": "Despacito (feat. Justin Bieber) [Remix] - Single",
+"copyright": "℗ 2017 Universal Music Latin Entertainment under exclusive license to Republic Records (RBMG/Def Jam Recordings)",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "12",
+"name": "Latino",
+"url": "https://itunes.apple.com/us/genre/id12"
+}
+],
+"id": "1227088906",
+"kind": "song",
+"name": "Despacito (feat. Justin Bieber) [Remix]",
+"releaseDate": "2017-04-17",
+"url": "https://itunes.apple.com/us/album/despacito-feat-justin-bieber-remix/1227088902?i=1227088906&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707483",
+"kind": "song",
+"name": "TTM (feat. Wiz Khalifa & NGHTMRE)",
+"releaseDate": "2017-11-17",
+"url": "https://itunes.apple.com/us/album/ttm-feat-wiz-khalifa-nghtmre/1300707470?i=1300707483&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/nf/898094630?app=music",
+"artistId": "898094630",
+"artistName": "NF",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music128/v4/5a/61/d7/5a61d74f-5eb7-413d-ef71-dd061a8fc132/source/200x200bb.png",
+"collectionName": "Perception",
+"copyright": "Capitol Records;℗2017 NF Real Music, LLC",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1276828669",
+"kind": "song",
+"name": "Let You Down",
+"releaseDate": "2017-10-06",
+"url": "https://itunes.apple.com/us/album/let-you-down/1276828373?i=1276828669&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/pnb-rock/943088005?app=music",
+"artistId": "943088005",
+"artistName": "PnB Rock",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music118/v4/9d/06/96/9d06966b-ddb2-9e0d-edde-1d253c309470/source/200x200bb.png",
+"collectionName": "Catch These Vibes",
+"copyright": "℗ 2017 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States. A Warner Music Group Company",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1300707971",
+"kind": "song",
+"name": "Feelins",
+"releaseDate": "2017-06-14",
+"url": "https://itunes.apple.com/us/album/feelins/1300707470?i=1300707971&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/migos/569925101?app=music",
+"artistId": "569925101",
+"artistName": "Migos",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music111/v4/82/4d/93/824d93cf-2d7c-9862-4676-d3a978c9a9f7/source/200x200bb.png",
+"collectionName": "Culture",
+"copyright": "℗ 2017 Quality Control Music Exclusively Distributed by 300 Entertainment",
+"genres": [
+{
+"genreId": "1073",
+"name": "Hip-Hop",
+"url": "https://itunes.apple.com/us/genre/id1073"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+}
+],
+"id": "1192538690",
+"kind": "song",
+"name": "Slippery (feat. Gucci Mane)",
+"releaseDate": "2017-01-27",
+"url": "https://itunes.apple.com/us/album/slippery-feat-gucci-mane/1192538488?i=1192538690&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/taylor-swift/159260351?app=music",
+"artistId": "159260351",
+"artistName": "Taylor Swift",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music128/v4/93/41/9b/93419bde-e2b7-7e5b-5f22-70930f111b7b/source/200x200bb.png",
+"collectionName": "Look What You Made Me Do - Single",
+"copyright": "℗ 2017 Big Machine Label Group, LLC",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1275004357",
+"kind": "song",
+"name": "Look What You Made Me Do",
+"releaseDate": "2017-08-25",
+"url": "https://itunes.apple.com/us/album/look-what-you-made-me-do/1275004355?i=1275004357&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/eminem/111051?app=music",
+"artistId": "111051",
+"artistName": "Eminem",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/05/81/ba/0581bab3-09b1-93f2-ce61-b1207c096212/source/200x200bb.png",
+"collectionName": "Walk On Water (feat. Beyoncé) - Single",
+"copyright": "An Aftermath/Shady/Interscope Records Release;℗2017 Aftermath Records",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1310930356",
+"kind": "song",
+"name": "Walk On Water (feat. Beyoncé)",
+"releaseDate": "2017-11-10",
+"url": "https://itunes.apple.com/us/album/walk-on-water-feat-beyonc%C3%A9/1310930088?i=1310930356&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/lil-peep/1077454941?app=music",
+"artistId": "1077454941",
+"artistName": "Lil Peep",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music128/v4/7a/6f/ee/7a6fee79-0d4d-8e4d-75e2-2ce6397b033e/source/200x200bb.png",
+"collectionName": "Come Over When You're Sober, Pt. 1",
+"copyright": "℗ 2017 Lil Peep",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+},
+{
+"genreId": "21",
+"name": "Rock",
+"url": "https://itunes.apple.com/us/genre/id21"
+}
+],
+"id": "1263190194",
+"kind": "song",
+"name": "Awful Things",
+"releaseDate": "2017-08-14",
+"url": "https://itunes.apple.com/us/album/awful-things/1263190074?i=1263190194&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=417571723-432464201&app=music",
+"artistId": "417571723",
+"artistName": "Hailee Steinfeld & Alesso",
+"artworkUrl100": "http://is5.mzstatic.com/image/thumb/Music118/v4/b4/9b/5a/b49b5aa0-2387-3854-aac5-2049d8476e5e/source/200x200bb.png",
+"collectionName": "Let Me Go (feat. Florida Georgia Line & watt) - Single",
+"copyright": "℗ 2017 Republic Records, a Division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "14",
+"name": "Pop",
+"url": "https://itunes.apple.com/us/genre/id14"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1279363127",
+"kind": "song",
+"name": "Let Me Go (feat. Florida Georgia Line & watt)",
+"releaseDate": "2017-09-08",
+"url": "https://itunes.apple.com/us/album/let-me-go-feat-florida-georgia-line-watt/1279362661?i=1279363127&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/kendrick-lamar/368183298?app=music",
+"artistId": "368183298",
+"artistName": "Kendrick Lamar",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music111/v4/56/46/3f/56463f62-0d8d-3595-368b-38a995f10e36/source/200x200bb.png",
+"collectionName": "DAMN.",
+"copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1223592496",
+"kind": "song",
+"name": "LOYALTY. (FEAT. RIHANNA.)",
+"releaseDate": "2017-04-14",
+"url": "https://itunes.apple.com/us/album/loyalty-feat-rihanna/1223592280?i=1223592496&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/childish-gambino/466842536?app=music",
+"artistId": "466842536",
+"artistName": "Childish Gambino",
+"artworkUrl100": "http://is3.mzstatic.com/image/thumb/Music71/v4/e2/a1/59/e2a1592e-9403-6d1c-29a7-f5a2d35c141a/source/200x200bb.png",
+"collectionName": "\"Awaken, My Love!\"",
+"copyright": "℗ 2016 Glassnote Entertainment Group LLC",
+"genres": [
+{
+"genreId": "15",
+"name": "R&B/Soul",
+"url": "https://itunes.apple.com/us/genre/id15"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1173655934",
+"kind": "song",
+"name": "Redbone",
+"releaseDate": "2016-11-17",
+"url": "https://itunes.apple.com/us/album/redbone/1173655524?i=1173655934&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/kendrick-lamar/368183298?app=music",
+"artistId": "368183298",
+"artistName": "Kendrick Lamar",
+"artworkUrl100": "http://is2.mzstatic.com/image/thumb/Music111/v4/56/46/3f/56463f62-0d8d-3595-368b-38a995f10e36/source/200x200bb.png",
+"collectionName": "DAMN.",
+"copyright": "℗ 2017 Aftermath/Interscope (Top Dawg Entertainment)",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1223592492",
+"kind": "song",
+"name": "DNA.",
+"releaseDate": "2017-04-14",
+"url": "https://itunes.apple.com/us/album/dna/1223592280?i=1223592492&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/post-malone/966309175?app=music",
+"artistId": "966309175",
+"artistName": "Post Malone",
+"artworkUrl100": "http://is1.mzstatic.com/image/thumb/Music71/v4/93/80/78/938078cc-6bfc-a518-e8b6-8bf731fcfbc6/source/200x200bb.png",
+"collectionName": "Stoney (Deluxe)",
+"copyright": "℗ 2016 Republic Records, a division of UMG Recordings, Inc.",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1170700479",
+"kind": "song",
+"name": "White Iverson",
+"releaseDate": "2015-08-14",
+"url": "https://itunes.apple.com/us/album/white-iverson/1170699981?i=1170700479&app=music"
+},
+{
+"artistUrl": "https://itunes.apple.com/us/artist/trippie-redd/1203172438?app=music",
+"artistId": "1203172438",
+"artistName": "Trippie Redd",
+"artworkUrl100": "http://is4.mzstatic.com/image/thumb/Music82/v4/aa/96/f7/aa96f783-6ad8-f2c6-5796-7e1e1f4405e5/source/200x200bb.png",
+"collectionName": "A Love Letter To You",
+"copyright": "℗ 2017 EG Entertainment",
+"genres": [
+{
+"genreId": "18",
+"name": "Hip-Hop/Rap",
+"url": "https://itunes.apple.com/us/genre/id18"
+},
+{
+"genreId": "34",
+"name": "Music",
+"url": "https://itunes.apple.com/us/genre/id34"
+}
+],
+"id": "1235742827",
+"kind": "song",
+"name": "Love Scars",
+"releaseDate": "2017-05-12",
+"url": "https://itunes.apple.com/us/album/love-scars/1235742501?i=1235742827&app=music"
+}
+]
+}
+}

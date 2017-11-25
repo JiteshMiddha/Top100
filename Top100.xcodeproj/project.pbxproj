@@ -7,16 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55126CE61FC991F50049F580 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 55126CE41FC991F40049F580 /* Reachability.m */; };
+		55126CEA1FC995470049F580 /* InternetStatus.m in Sources */ = {isa = PBXBuildFile; fileRef = 55126CE91FC995470049F580 /* InternetStatus.m */; };
+		55126CEE1FC9B6380049F580 /* mockAPI.json in Resources */ = {isa = PBXBuildFile; fileRef = 55126CED1FC9B6380049F580 /* mockAPI.json */; };
+		55126CEF1FC9D2F70049F580 /* mockAPI.json in Resources */ = {isa = PBXBuildFile; fileRef = 55126CED1FC9B6380049F580 /* mockAPI.json */; };
 		554976001FC4AFD000EAC6C3 /* SongsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 554975FF1FC4AFD000EAC6C3 /* SongsListViewController.m */; };
-		55B3862C1FC4B23B005EFFEF /* FetchListOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3862B1FC4B23B005EFFEF /* FetchListOperation.m */; };
+		55630E341FC7F6E600E96512 /* Top100.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD4F71FC4A06A00131EAE /* Top100.xcdatamodeld */; };
+		55630E351FC7F78200E96512 /* DownloadImageOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3864D1FC77762005EFFEF /* DownloadImageOperation.m */; };
+		55630E361FC7F78A00E96512 /* FetchListOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3862B1FC4B23B005EFFEF /* FetchListOperation.m */; };
+		55630E391FC83F1200E96512 /* ImageProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 55630E381FC83F1200E96512 /* ImageProvider.m */; };
+		55630E3C1FC8512400E96512 /* GetListFromAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 55630E3B1FC8512400E96512 /* GetListFromAPI.m */; };
+		55630E441FC8518F00E96512 /* SaveOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 55630E431FC8518F00E96512 /* SaveOperation.m */; };
+		55630E4C1FC85F7000E96512 /* FetchFromCoreDataOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 55630E4B1FC85F7000E96512 /* FetchFromCoreDataOperation.m */; };
+		55B3863A1FC5F9CD005EFFEF /* SongsListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B386391FC5F9CD005EFFEF /* SongsListCell.m */; };
+		55B386401FC6A650005EFFEF /* Song.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B3863F1FC6A650005EFFEF /* Song.m */; };
+		55B386431FC6A925005EFFEF /* Feed.m in Sources */ = {isa = PBXBuildFile; fileRef = 55B386421FC6A925005EFFEF /* Feed.m */; };
 		55ECD4F01FC4A06A00131EAE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD4EF1FC4A06A00131EAE /* AppDelegate.m */; };
 		55ECD4F61FC4A06A00131EAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55ECD4F41FC4A06A00131EAE /* Main.storyboard */; };
-		55ECD4F91FC4A06A00131EAE /* Top100.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD4F71FC4A06A00131EAE /* Top100.xcdatamodeld */; };
 		55ECD4FB1FC4A06A00131EAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55ECD4FA1FC4A06A00131EAE /* Assets.xcassets */; };
 		55ECD4FE1FC4A06A00131EAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55ECD4FC1FC4A06A00131EAE /* LaunchScreen.storyboard */; };
 		55ECD5011FC4A06A00131EAE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD5001FC4A06A00131EAE /* main.m */; };
 		55ECD50B1FC4A06A00131EAE /* Top100Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD50A1FC4A06A00131EAE /* Top100Tests.m */; };
 		55ECD5161FC4A06A00131EAE /* Top100UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 55ECD5151FC4A06A00131EAE /* Top100UITests.m */; };
+		7FC0E1238F19441E2198A896 /* libPods-Top100.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7FF61302B2E7827991D85911 /* libPods-Top100.a */; };
+		B554469E85AAF526C51D492D /* libPods-Top100UITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 188154EE0FE617DD199CDCD9 /* libPods-Top100UITests.a */; };
+		DD978DF1E5E1C7C32849BE1D /* libPods-Top100Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1670D81948637B72DC2017F6 /* libPods-Top100Tests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,10 +52,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1670D81948637B72DC2017F6 /* libPods-Top100Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Top100Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		188154EE0FE617DD199CDCD9 /* libPods-Top100UITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Top100UITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		396C54AD56713E8243E7BE53 /* Pods-Top100.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Top100.release.xcconfig"; path = "Pods/Target Support Files/Pods-Top100/Pods-Top100.release.xcconfig"; sourceTree = "<group>"; };
+		55126CE41FC991F40049F580 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		55126CE51FC991F50049F580 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		55126CE81FC995470049F580 /* InternetStatus.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InternetStatus.h; sourceTree = "<group>"; };
+		55126CE91FC995470049F580 /* InternetStatus.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InternetStatus.m; sourceTree = "<group>"; };
+		55126CED1FC9B6380049F580 /* mockAPI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = mockAPI.json; sourceTree = "<group>"; };
 		554975FE1FC4AFD000EAC6C3 /* SongsListViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SongsListViewController.h; sourceTree = "<group>"; };
 		554975FF1FC4AFD000EAC6C3 /* SongsListViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SongsListViewController.m; sourceTree = "<group>"; };
+		55630E371FC83F1200E96512 /* ImageProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageProvider.h; sourceTree = "<group>"; };
+		55630E381FC83F1200E96512 /* ImageProvider.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageProvider.m; sourceTree = "<group>"; };
+		55630E3A1FC8512400E96512 /* GetListFromAPI.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetListFromAPI.h; sourceTree = "<group>"; };
+		55630E3B1FC8512400E96512 /* GetListFromAPI.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GetListFromAPI.m; sourceTree = "<group>"; };
+		55630E421FC8518F00E96512 /* SaveOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SaveOperation.h; sourceTree = "<group>"; };
+		55630E431FC8518F00E96512 /* SaveOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SaveOperation.m; sourceTree = "<group>"; };
+		55630E4A1FC85F6F00E96512 /* FetchFromCoreDataOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FetchFromCoreDataOperation.h; sourceTree = "<group>"; };
+		55630E4B1FC85F7000E96512 /* FetchFromCoreDataOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FetchFromCoreDataOperation.m; sourceTree = "<group>"; };
 		55B3862A1FC4B23B005EFFEF /* FetchListOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FetchListOperation.h; sourceTree = "<group>"; };
 		55B3862B1FC4B23B005EFFEF /* FetchListOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FetchListOperation.m; sourceTree = "<group>"; };
+		55B386381FC5F9CD005EFFEF /* SongsListCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SongsListCell.h; sourceTree = "<group>"; };
+		55B386391FC5F9CD005EFFEF /* SongsListCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SongsListCell.m; sourceTree = "<group>"; };
+		55B3863E1FC6A650005EFFEF /* Song.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Song.h; sourceTree = "<group>"; };
+		55B3863F1FC6A650005EFFEF /* Song.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Song.m; sourceTree = "<group>"; };
+		55B386411FC6A925005EFFEF /* Feed.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feed.h; sourceTree = "<group>"; };
+		55B386421FC6A925005EFFEF /* Feed.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feed.m; sourceTree = "<group>"; };
+		55B3864C1FC77762005EFFEF /* DownloadImageOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownloadImageOperation.h; sourceTree = "<group>"; };
+		55B3864D1FC77762005EFFEF /* DownloadImageOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownloadImageOperation.m; sourceTree = "<group>"; };
 		55ECD4EB1FC4A06A00131EAE /* Top100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Top100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55ECD4EE1FC4A06A00131EAE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		55ECD4EF1FC4A06A00131EAE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -56,6 +95,12 @@
 		55ECD5111FC4A06A00131EAE /* Top100UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Top100UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		55ECD5151FC4A06A00131EAE /* Top100UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Top100UITests.m; sourceTree = "<group>"; };
 		55ECD5171FC4A06A00131EAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C8B65D031E570FB2A022694 /* Pods-Top100UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Top100UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Top100UITests/Pods-Top100UITests.release.xcconfig"; sourceTree = "<group>"; };
+		671AD01E36FC085AE261D0C7 /* Pods-Top100Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Top100Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Top100Tests/Pods-Top100Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		7FF61302B2E7827991D85911 /* libPods-Top100.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Top100.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F335CEF51D30A7AA263CF1B /* Pods-Top100UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Top100UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Top100UITests/Pods-Top100UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		9C910F466458263EF5FE63D1 /* Pods-Top100.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Top100.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Top100/Pods-Top100.debug.xcconfig"; sourceTree = "<group>"; };
+		A50A42F92E390D8123DEC1B2 /* Pods-Top100Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Top100Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Top100Tests/Pods-Top100Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FC0E1238F19441E2198A896 /* libPods-Top100.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +116,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD978DF1E5E1C7C32849BE1D /* libPods-Top100Tests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,19 +124,98 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B554469E85AAF526C51D492D /* libPods-Top100UITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		10F10018254832EBD13A8192 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9C910F466458263EF5FE63D1 /* Pods-Top100.debug.xcconfig */,
+				396C54AD56713E8243E7BE53 /* Pods-Top100.release.xcconfig */,
+				671AD01E36FC085AE261D0C7 /* Pods-Top100Tests.debug.xcconfig */,
+				A50A42F92E390D8123DEC1B2 /* Pods-Top100Tests.release.xcconfig */,
+				8F335CEF51D30A7AA263CF1B /* Pods-Top100UITests.debug.xcconfig */,
+				5C8B65D031E570FB2A022694 /* Pods-Top100UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		550260FF1FC990E6004F00DB /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				550261001FC990F1004F00DB /* ImageProvider */,
+				55126CEB1FC9954B0049F580 /* InternetStatus */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		550261001FC990F1004F00DB /* ImageProvider */ = {
+			isa = PBXGroup;
+			children = (
+				55630E371FC83F1200E96512 /* ImageProvider.h */,
+				55630E381FC83F1200E96512 /* ImageProvider.m */,
+			);
+			path = ImageProvider;
+			sourceTree = "<group>";
+		};
+		55126CE71FC991FA0049F580 /* Reachability */ = {
+			isa = PBXGroup;
+			children = (
+				55126CE51FC991F50049F580 /* Reachability.h */,
+				55126CE41FC991F40049F580 /* Reachability.m */,
+			);
+			path = Reachability;
+			sourceTree = "<group>";
+		};
+		55126CEB1FC9954B0049F580 /* InternetStatus */ = {
+			isa = PBXGroup;
+			children = (
+				55126CE81FC995470049F580 /* InternetStatus.h */,
+				55126CE91FC995470049F580 /* InternetStatus.m */,
+			);
+			path = InternetStatus;
+			sourceTree = "<group>";
+		};
 		554976011FC4AFDD00EAC6C3 /* SongsListVC */ = {
 			isa = PBXGroup;
 			children = (
 				554975FE1FC4AFD000EAC6C3 /* SongsListViewController.h */,
 				554975FF1FC4AFD000EAC6C3 /* SongsListViewController.m */,
+				55B386381FC5F9CD005EFFEF /* SongsListCell.h */,
+				55B386391FC5F9CD005EFFEF /* SongsListCell.m */,
 			);
 			path = SongsListVC;
+			sourceTree = "<group>";
+		};
+		55630E3D1FC8513000E96512 /* GetListFromAPI */ = {
+			isa = PBXGroup;
+			children = (
+				55630E3A1FC8512400E96512 /* GetListFromAPI.h */,
+				55630E3B1FC8512400E96512 /* GetListFromAPI.m */,
+			);
+			path = GetListFromAPI;
+			sourceTree = "<group>";
+		};
+		55630E451FC8519B00E96512 /* SaveOperation */ = {
+			isa = PBXGroup;
+			children = (
+				55630E421FC8518F00E96512 /* SaveOperation.h */,
+				55630E431FC8518F00E96512 /* SaveOperation.m */,
+			);
+			path = SaveOperation;
+			sourceTree = "<group>";
+		};
+		55630E4D1FC85F7600E96512 /* FetchFromCoreDataOperation */ = {
+			isa = PBXGroup;
+			children = (
+				55630E4A1FC85F6F00E96512 /* FetchFromCoreDataOperation.h */,
+				55630E4B1FC85F7000E96512 /* FetchFromCoreDataOperation.m */,
+			);
+			path = FetchFromCoreDataOperation;
 			sourceTree = "<group>";
 		};
 		55B3862D1FC4B243005EFFEF /* FetchList */ = {
@@ -104,9 +230,33 @@
 		55B3862E1FC4B255005EFFEF /* Operations */ = {
 			isa = PBXGroup;
 			children = (
+				55B3864F1FC77767005EFFEF /* DownloadImage */,
 				55B3862D1FC4B243005EFFEF /* FetchList */,
+				55630E3D1FC8513000E96512 /* GetListFromAPI */,
+				55630E451FC8519B00E96512 /* SaveOperation */,
+				55630E4D1FC85F7600E96512 /* FetchFromCoreDataOperation */,
 			);
 			path = Operations;
+			sourceTree = "<group>";
+		};
+		55B386441FC6ADA7005EFFEF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				55B386411FC6A925005EFFEF /* Feed.h */,
+				55B386421FC6A925005EFFEF /* Feed.m */,
+				55B3863E1FC6A650005EFFEF /* Song.h */,
+				55B3863F1FC6A650005EFFEF /* Song.m */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		55B3864F1FC77767005EFFEF /* DownloadImage */ = {
+			isa = PBXGroup;
+			children = (
+				55B3864C1FC77762005EFFEF /* DownloadImageOperation.h */,
+				55B3864D1FC77762005EFFEF /* DownloadImageOperation.m */,
+			);
+			path = DownloadImage;
 			sourceTree = "<group>";
 		};
 		55ECD4E21FC4A06A00131EAE = {
@@ -116,6 +266,8 @@
 				55ECD5091FC4A06A00131EAE /* Top100Tests */,
 				55ECD5141FC4A06A00131EAE /* Top100UITests */,
 				55ECD4EC1FC4A06A00131EAE /* Products */,
+				10F10018254832EBD13A8192 /* Pods */,
+				A091DF227307AB224C483BD0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -133,8 +285,11 @@
 			isa = PBXGroup;
 			children = (
 				55ECD4EE1FC4A06A00131EAE /* AppDelegate.h */,
+				55126CE71FC991FA0049F580 /* Reachability */,
 				55ECD4EF1FC4A06A00131EAE /* AppDelegate.m */,
 				55ECD4F41FC4A06A00131EAE /* Main.storyboard */,
+				550260FF1FC990E6004F00DB /* Helpers */,
+				55B386441FC6ADA7005EFFEF /* Models */,
 				55B3862E1FC4B255005EFFEF /* Operations */,
 				554976011FC4AFDD00EAC6C3 /* SongsListVC */,
 				55ECD4FA1FC4A06A00131EAE /* Assets.xcassets */,
@@ -149,6 +304,7 @@
 		55ECD5091FC4A06A00131EAE /* Top100Tests */ = {
 			isa = PBXGroup;
 			children = (
+				55126CED1FC9B6380049F580 /* mockAPI.json */,
 				55ECD50A1FC4A06A00131EAE /* Top100Tests.m */,
 				55ECD50C1FC4A06A00131EAE /* Info.plist */,
 			);
@@ -164,6 +320,16 @@
 			path = Top100UITests;
 			sourceTree = "<group>";
 		};
+		A091DF227307AB224C483BD0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7FF61302B2E7827991D85911 /* libPods-Top100.a */,
+				1670D81948637B72DC2017F6 /* libPods-Top100Tests.a */,
+				188154EE0FE617DD199CDCD9 /* libPods-Top100UITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -171,9 +337,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 55ECD51A1FC4A06A00131EAE /* Build configuration list for PBXNativeTarget "Top100" */;
 			buildPhases = (
+				85656AB406AB8E1D9C2864E1 /* [CP] Check Pods Manifest.lock */,
 				55ECD4E71FC4A06A00131EAE /* Sources */,
 				55ECD4E81FC4A06A00131EAE /* Frameworks */,
 				55ECD4E91FC4A06A00131EAE /* Resources */,
+				3249E1A39C30BC5107ADA773 /* [CP] Embed Pods Frameworks */,
+				9DF20C39DF926D14120F9536 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -188,9 +357,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 55ECD51D1FC4A06A00131EAE /* Build configuration list for PBXNativeTarget "Top100Tests" */;
 			buildPhases = (
+				F2002D173FA6ACF514B12B50 /* [CP] Check Pods Manifest.lock */,
 				55ECD5021FC4A06A00131EAE /* Sources */,
 				55ECD5031FC4A06A00131EAE /* Frameworks */,
 				55ECD5041FC4A06A00131EAE /* Resources */,
+				2F2E2E3404CF431E36783D1C /* [CP] Embed Pods Frameworks */,
+				261D3ADE9D990593919B9046 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -206,9 +378,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 55ECD5201FC4A06A00131EAE /* Build configuration list for PBXNativeTarget "Top100UITests" */;
 			buildPhases = (
+				DD45C35E08DDD90449682D01 /* [CP] Check Pods Manifest.lock */,
 				55ECD50D1FC4A06A00131EAE /* Sources */,
 				55ECD50E1FC4A06A00131EAE /* Frameworks */,
 				55ECD50F1FC4A06A00131EAE /* Resources */,
+				BF6DAF31B3E9A079807AE07A /* [CP] Embed Pods Frameworks */,
+				57BD2E349398E4E01075F86A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -270,6 +445,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55126CEF1FC9D2F70049F580 /* mockAPI.json in Resources */,
 				55ECD4FE1FC4A06A00131EAE /* LaunchScreen.storyboard in Resources */,
 				55ECD4FB1FC4A06A00131EAE /* Assets.xcassets in Resources */,
 				55ECD4F61FC4A06A00131EAE /* Main.storyboard in Resources */,
@@ -280,6 +456,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55126CEE1FC9B6380049F580 /* mockAPI.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,16 +469,173 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		261D3ADE9D990593919B9046 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Top100Tests/Pods-Top100Tests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2F2E2E3404CF431E36783D1C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Top100Tests/Pods-Top100Tests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3249E1A39C30BC5107ADA773 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Top100/Pods-Top100-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		57BD2E349398E4E01075F86A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Top100UITests/Pods-Top100UITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		85656AB406AB8E1D9C2864E1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Top100-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9DF20C39DF926D14120F9536 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Top100/Pods-Top100-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BF6DAF31B3E9A079807AE07A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Top100UITests/Pods-Top100UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DD45C35E08DDD90449682D01 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Top100UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F2002D173FA6ACF514B12B50 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Top100Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		55ECD4E71FC4A06A00131EAE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55630E361FC7F78A00E96512 /* FetchListOperation.m in Sources */,
+				55630E351FC7F78200E96512 /* DownloadImageOperation.m in Sources */,
+				55B386401FC6A650005EFFEF /* Song.m in Sources */,
+				55B3863A1FC5F9CD005EFFEF /* SongsListCell.m in Sources */,
 				55ECD4F01FC4A06A00131EAE /* AppDelegate.m in Sources */,
 				554976001FC4AFD000EAC6C3 /* SongsListViewController.m in Sources */,
+				55B386431FC6A925005EFFEF /* Feed.m in Sources */,
 				55ECD5011FC4A06A00131EAE /* main.m in Sources */,
-				55B3862C1FC4B23B005EFFEF /* FetchListOperation.m in Sources */,
-				55ECD4F91FC4A06A00131EAE /* Top100.xcdatamodeld in Sources */,
+				55630E4C1FC85F7000E96512 /* FetchFromCoreDataOperation.m in Sources */,
+				55630E391FC83F1200E96512 /* ImageProvider.m in Sources */,
+				55126CE61FC991F50049F580 /* Reachability.m in Sources */,
+				55630E341FC7F6E600E96512 /* Top100.xcdatamodeld in Sources */,
+				55126CEA1FC995470049F580 /* InternetStatus.m in Sources */,
+				55630E3C1FC8512400E96512 /* GetListFromAPI.m in Sources */,
+				55630E441FC8518F00E96512 /* SaveOperation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -462,12 +796,14 @@
 		};
 		55ECD51B1FC4A06A00131EAE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C910F466458263EF5FE63D1 /* Pods-Top100.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PEUU74D2AK;
 				INFOPLIST_FILE = Top100/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = jm.Top100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -476,12 +812,14 @@
 		};
 		55ECD51C1FC4A06A00131EAE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 396C54AD56713E8243E7BE53 /* Pods-Top100.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PEUU74D2AK;
 				INFOPLIST_FILE = Top100/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = jm.Top100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -490,6 +828,7 @@
 		};
 		55ECD51E1FC4A06A00131EAE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 671AD01E36FC085AE261D0C7 /* Pods-Top100Tests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -505,6 +844,7 @@
 		};
 		55ECD51F1FC4A06A00131EAE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A50A42F92E390D8123DEC1B2 /* Pods-Top100Tests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -520,6 +860,7 @@
 		};
 		55ECD5211FC4A06A00131EAE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8F335CEF51D30A7AA263CF1B /* Pods-Top100UITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PEUU74D2AK;
@@ -534,6 +875,7 @@
 		};
 		55ECD5221FC4A06A00131EAE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5C8B65D031E570FB2A022694 /* Pods-Top100UITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PEUU74D2AK;

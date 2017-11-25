@@ -7,9 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-
 @interface SongsListViewController : UIViewController
-
-@property (weak, nonatomic) IBOutlet UICollectionView *collectionView;
 
 @end

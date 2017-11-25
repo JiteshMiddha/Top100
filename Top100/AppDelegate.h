@@ -16,7 +16,7 @@
 @property (readonly, strong) NSPersistentContainer *persistentContainer;
 
 - (void)saveContext;
-
+- (NSManagedObjectContext *)privateQueueContext;
 
 @end
 

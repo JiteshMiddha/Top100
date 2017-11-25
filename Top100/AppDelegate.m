@@ -9,6 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
+@property (nonatomic,strong)NSManagedObjectContext* privateQueueContext;
 
 @end
 
@@ -73,7 +74,7 @@
                      Check the error message to determine what the actual problem was.
                     */
                     NSLog(@"Unresolved error %@, %@", error, error.userInfo);
-                    abort();
+                  //  abort();
                 }
             }];
         }
@@ -94,5 +95,18 @@
         abort();
     }
 }
+
+
+
+
+- (NSManagedObjectContext *)privateQueueContext
+{
+    if (!_privateQueueContext) {
+        _privateQueueContext = [[NSManagedObjectContext alloc] initWithConcurrencyType:NSPrivateQueueConcurrencyType];
+        _privateQueueContext.persistentStoreCoordinator = self.persistentContainer.persistentStoreCoordinator;
+    }
+    return _privateQueueContext;
+}
+
 
 @end
